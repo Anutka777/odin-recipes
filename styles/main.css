@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: darkblue;
+}
+
+ul {
+  list-style: none;
+  padding: 45px;
+  color: darkblue;
+  text-align: center;
+}
+
+ol {
+  padding: 45px;
+  list-style: decimal;
+  color: darkblue;
+}
+
+li {
+  font-family: Impact, Haettenschweiler, sans-serif;
+  font-size: 16px;
+}
+
+p {
+  text-align: center;
+  background-color: darkblue;
+  color: white;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}

@@ -1,5 +1,5 @@
 # odin-recipes
-Simple html-markup
+Simple html-markup with basic css-styles
 
 Quick refresh of html-markup.
 Done for the sake of 100% completion of the curriculum.
